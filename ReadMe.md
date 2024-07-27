@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de programação , atualmente focado na área de back-end. Possuo conhecimento na linguagem Python e em conceitos básicos de Html,Css e Javascritpt,<br>Atualmente cursando 3° periodo do curso de Análise em Desenvolvimento de Sistemas<br>
+Estudante de programação , atualmente focado na área de front-end. Possuo conhecimento em Html, Css e nas linguagens Javascritpt e Python,<br>Atualmente cursando 3° periodo do curso de Análise em Desenvolvimento de Sistemas<br>
 
 
 ## 🌐 Socials:
