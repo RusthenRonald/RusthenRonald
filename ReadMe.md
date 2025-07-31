@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou um estudante de programação, atualmente focado na área de front-end, pela qual sou apaixonado. Possuo conhecimento em HTML, CSS, JavaScript e Python, além de experiência com MySQL, Node.js e ferramentas de design como Figma. Atualmente, estou cursando o 3º período do curso de Análise e Desenvolvimento de Sistemas, desenvolvendo habilidades tanto técnicas quanto criativas. Tenho nível de inglês intermediário/fluente, o que me permite acessar materiais e colaborar em projetos internacionais com facilidade.
+Sou um estudante de programação, atualmente focado na área de front-end, pela qual sou apaixonado. Possuo conhecimento em HTML, CSS, JavaScript , ReactsJs, ferramentas de design como Figma e Gimp ; Além de experiência com a parte de back end com MongoDb, Python, FastApi e Node.js. Atualmente, estou cursando o 4º período do curso de Análise e Desenvolvimento de Sistemas, desenvolvendo habilidades tanto técnicas quanto criativas. Tenho nível de inglês intermediário/Avançado, o que me permite acessar materiais e colaborar em projetos internacionais com facilidade.
 
 
 ## 🌐 Socials:
